@@ -1,0 +1,33 @@
+.page1-btn {
+    text-align: right;
+}
+.prev-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    height: 25px;
+    width: 20;
+}
+
+.prev-btn:hover {
+    opacity: 0.8;
+}
+.prev-btn:active {
+    opacity: 0.5;
+}
+
+.next-btn {
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+    height: 25px;
+    width: 20;
+}
+.next-btn:hover {
+    opacity: 0.8;
+}
+.next-btn:active {
+    opacity: 0.5;
+}
